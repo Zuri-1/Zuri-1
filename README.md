@@ -14,7 +14,7 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm a Computer Science and Data Science student passionate about building data-driven web applications and machine learning solutions. I've interned as a Full-Stack Developer, AI/ML Engineer, and Web Developer and I look forward to learning about any more fields in Compumter Science.
 
