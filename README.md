@@ -2,14 +2,12 @@
 
 <p align="center">
   <b>CS & Data Science Student @ Augustana College</b><br>
-  Rock Island, IL • Expected Graduation: May 2027<br>
-  Minor in Mathematics
 </p>
 
 <p align="center">
   <a href="mailto:sujaytuladhar23@augustana.edu">Email</a> •
   <a href="https://github.com/Zuri-1">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sujay-tuladhar-1557793">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sujay-tuladhar-1557793">LinkedIn</a> •
   <a href="https://zuri-portfolio--portfolio-sujay-4df72.us-central1.hosted.app/">Portfolio</a>
 </p>
 
