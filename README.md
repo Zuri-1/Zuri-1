@@ -10,6 +10,7 @@
   <a href="mailto:sujaytuladhar23@augustana.edu">Email</a> •
   <a href="https://github.com/Zuri-1">GitHub</a> •
   <a href="https://www.linkedin.com/in/sujay-tuladhar-1557793">LinkedIn</a>
+  <a href="https://zuri-portfolio--portfolio-sujay-4df72.us-central1.hosted.app/">Portfolio</a>
 </p>
 
 ---
@@ -18,11 +19,10 @@
 
 I'm a Computer Science and Data Science student passionate about building data-driven web applications and machine learning solutions. I've interned as a Full-Stack Developer, AI/ML Engineer, and Web Developer and I look forward to learning about any more fields in Compumter Science.
 
-- 🔭 Currently working on the **Augustana Recreation Swipe-In Tracker** (React + cloud DB)
-- 🌱 Currently building my **Gaming Portfolio** with TypeScript
-- 🤝 Open to internship opportunities in software engineering, data science, or AI/ML
-- 🏐 Volleyball player, **Captain of Augustana Esports** and **Vice President of Omicron Sigma Omicron(OZO)**
-- 🌍 Multilingual: English, Nepali, Newari, Hindi
+- Currently working on the **Augustana Recreation Swipe-In Tracker** (React + cloud DB)
+- Currently building my **Gaming Portfolio** with TypeScript
+- Open to internship opportunities in software engineering, data science, or AI/ML
+- Volleyball player, **Captain of Augustana Esports** and **Vice President of Omicron Sigma Omicron(OZO)**
 
 ---
 
