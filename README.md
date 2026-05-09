@@ -60,7 +60,6 @@ Python · YOLOv5 · OpenCV · PyAutoGUI · NumPy
 
 ---
 ### [Spam Email Classification Model](https://colab.research.google.com/drive/11cQek_z7p8_-OHPWETlBELInQ8kDcEfI)
-)
 Python · scikit-learn · Pandas · NumPy · Matplotlib
 
 ---
